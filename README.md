@@ -55,12 +55,16 @@ To visualize and monitor mobile phone sales trends and performance using Power B
 
 ### 🧾 MTD Report
 
+![Image](https://github.com/user-attachments/assets/deb88032-aefc-4753-a716-26eafd9bef95)
+
 
 ### 📍 Sales by City and Brand
+![Image](https://github.com/user-attachments/assets/7e8c4f2e-ab15-466d-894d-96547efb3d52)
 
 
 ### 📅 Year-over-Year Comparison
 
+![Image](https://github.com/user-attachments/assets/c9d44e89-4f23-472f-95c6-9e5b1ef7122c)
 
 
 ## 📈 Key Insights
@@ -81,6 +85,10 @@ To visualize and monitor mobile phone sales trends and performance using Power B
 **app power bi desktop link:**
 
 (https://app.powerbi.com/view?r=eyJrIjoiMjNmMGZlNWYtN2ZjZS00M2FiLWE5MjUtZjI4YzM3NWE3ODRhIiwidCI6IjNiMjljMGY3LWNjNTItNDIyYy05ODhkLWE0OWRkNjQyMzMxYyJ9)
+
+![Image](https://github.com/user-attachments/assets/7e8c4f2e-ab15-466d-894d-96547efb3d52)
+![Image](https://github.com/user-attachments/assets/deb88032-aefc-4753-a716-26eafd9bef95)
+![Image](https://github.com/user-attachments/assets/c9d44e89-4f23-472f-95c6-9e5b1ef7122c)
 
 ## ✅ Conclusion
 
