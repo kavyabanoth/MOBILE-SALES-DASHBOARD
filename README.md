@@ -59,11 +59,12 @@ To visualize and monitor mobile phone sales trends and performance using Power B
 ![Image](https://github.com/user-attachments/assets/c9d44e89-4f23-472f-95c6-9e5b1ef7122c)
 
 ### 📍 Sales by City and Brand
-![Image](https://github.com/user-attachments/assets/7e8c4f2e-ab15-466d-894d-96547efb3d52)
 
+![Image](https://github.com/user-attachments/assets/deb88032-aefc-4753-a716-26eafd9bef95)
 
 ### 📅 Year-over-Year Comparison
-![Image](https://github.com/user-attachments/assets/deb88032-aefc-4753-a716-26eafd9bef95)
+
+![Image](https://github.com/user-attachments/assets/7e8c4f2e-ab15-466d-894d-96547efb3d52)
 
 ## 📈 Key Insights
 
