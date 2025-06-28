@@ -85,6 +85,17 @@ To visualize and monitor mobile phone sales trends and performance using Power B
 
 (https://app.powerbi.com/view?r=eyJrIjoiMjNmMGZlNWYtN2ZjZS00M2FiLWE5MjUtZjI4YzM3NWE3ODRhIiwidCI6IjNiMjljMGY3LWNjNTItNDIyYy05ODhkLWE0OWRkNjQyMzMxYyJ9)
 
+
+ ## 📚 References and Credits
+
+This Power BI dashboard on **Mobile Sales Analysis** was created with guidance and inspiration from the following source:
+
+- 📺 **YouTube Tutorial**: [Power BI Dashboard End to End Project with DAX Formula for Beginners 2025] 
+  *Creator: Satish Dhawale – Used for understanding DAX formulas, dashboard layout, and Power BI service publishing.*
+
+⚠️ *This project is my own implementation based on knowledge gained from the above tutorial. No direct copying of files or visuals was done.*
+
+
 ## ✅ Conclusion
 
 This Power BI dashboard provides a data-driven approach to track mobile sales, analyze brand and model performance, and gain insights for better business strategy.
